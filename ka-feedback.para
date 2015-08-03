@@ -1,0 +1,13 @@
+<parameters>
+<index>E:/index/sample.key</index>
+<retModel>kl</retModel>
+<feedbackDocCount>30</feedbackDocCount>
+<feedbackTermCount>350</feedbackTermCount>
+<feedbackCoefficient>0.85</feedbackCoefficient>
+<textQuery>./query/query.parse</textQuery>
+<memory>1024MB</memory>
+<resultFile>./result/kafang/result_new.txt</resultFile>
+<count>1000</count>
+<runID>accepted</runID>
+<trecFormat>true</trecFormat>
+</parameters>
